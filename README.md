@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Structures and algorithms
 - 💞️ I’m looking to collaborate on wahtever comes along
-- 📫 How to reach me ... jjgh89@msn.com
+- 📫 How to reach me ... javgranados@gmail.com
 
 <!---
 jav201/jav201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
